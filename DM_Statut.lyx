@@ -3376,35 +3376,29 @@ ch zugestimmt haben.
 (1) Zum Bundesparteitag sind zur Antragstellung berechtigt: 
 \end_layout
 
-\begin_layout Standard
-1.
- Bundesvorstand der DM, 
+\begin_layout Enumerate
+Bundesvorstand der DM, 
 \end_layout
 
-\begin_layout Standard
-2.
- Bundesausschuss der DM, 
+\begin_layout Enumerate
+Bundesausschuss der DM, 
 \end_layout
 
-\begin_layout Standard
-3.
- Vorstände der Bundesvereinigungen, 
+\begin_layout Enumerate
+Vorstände der Bundesvereinigungen, 
 \end_layout
 
-\begin_layout Standard
-4.
- Vorstände der DM-Landesverbände,
+\begin_layout Enumerate
+Vorstände der DM-Landesverbände,
 \end_layout
 
-\begin_layout Standard
-5.
- Vorstände der DM-Bezirks- und Kreisverbände sowie der DM- Auslandsverbände.
+\begin_layout Enumerate
+Vorstände der DM-Bezirks- und Kreisverbände sowie der DM- Auslandsverbände.
  
 \end_layout
 
-\begin_layout Standard
-6.
- die Beratungsausschüsse der DM zu den jeweiligen Leitthemen eines Parteitages.
+\begin_layout Enumerate
+die Beratungsausschüsse der DM zu den jeweiligen Leitthemen eines Parteitages.
 \end_layout
 
 \begin_layout Standard
@@ -3890,30 +3884,26 @@ Hauptanträge.
 Der amtierende Präsident kann: 
 \end_layout
 
-\begin_layout Standard
-1.
- Redner, die vom Beratungsgegenstand abschweifen, zur Sache verweisen, 
+\begin_layout Enumerate
+Redner, die vom Beratungsgegenstand abschweifen, zur Sache verweisen, 
 \end_layout
 
-\begin_layout Standard
-2.
- Sitzungsteilnehmer, welche die Ordnung verletzen, zur Ordnung rufen, sie
+\begin_layout Enumerate
+Sitzungsteilnehmer, welche die Ordnung verletzen, zur Ordnung rufen, sie
  notfalls von den weiteren Sitzungen ausschließen.
  
 \end_layout
 
-\begin_layout Standard
-3.
- Rednern, die in derselben Rede dreimal zur Sache verwiesen oder zweimal
+\begin_layout Enumerate
+Rednern, die in derselben Rede dreimal zur Sache verwiesen oder zweimal
  zur Ordnung gerufen wurden, das Wort entziehen.
  Ist einem Redner das Wort entzogen, so kann er es zum gleichen Beratungsgegenst
 and nicht wieder erhalten.
  
 \end_layout
 
-\begin_layout Standard
-4.
- die Sitzung unterbrechen, wenn störende Unruhe entsteht, die den Fortgang
+\begin_layout Enumerate
+die Sitzung unterbrechen, wenn störende Unruhe entsteht, die den Fortgang
  der Beratungen in Frage stellt.
  
 \end_layout
@@ -3945,19 +3935,16 @@ Der Ablauf des Bundesparteitages ist in einer Niederschrift vollständig
 Der Bundesvorstand 
 \end_layout
 
-\begin_layout Standard
-1.
- vollzieht die Beschlüsse des Bundesparteitages und 
+\begin_layout Enumerate
+vollzieht die Beschlüsse des Bundesparteitages und 
 \end_layout
 
-\begin_layout Standard
-2.
- überwacht deren Durchführung
+\begin_layout Enumerate
+überwacht deren Durchführung
 \end_layout
 
-\begin_layout Standard
-3.
- erstattet dem jeweils folgenden Bundesparteitag über den Vollzug schriftlichen
+\begin_layout Enumerate
+erstattet dem jeweils folgenden Bundesparteitag über den Vollzug schriftlichen
  Bericht.
  
 \end_layout
@@ -5592,13 +5579,11 @@ sonstige Ausgaben,
 
 \end_deeper
 \begin_layout Enumerate
-3.
- Zuschüsse an Gliederungen und 
+Zuschüsse an Gliederungen und 
 \end_layout
 
 \begin_layout Enumerate
-4.
- Gesamtausgaben nach den Nummern 1 bis 3.
+Gesamtausgaben nach den Nummern 1 bis 3.
  
 \end_layout
 
@@ -5747,15 +5732,13 @@ t von im Einzelfall mehr als 5.000 Euro (einschließlich Umsatzsteuer) aufgefüh
  folgende Punkte enthalten muss: 
 \end_layout
 
-\begin_layout Standard
-1.
- mögliche Differenzen zwischen dem Saldo der Einnahme- und Ausgaberechnung
+\begin_layout Enumerate
+mögliche Differenzen zwischen dem Saldo der Einnahme- und Ausgaberechnung
  und der Vermögensbilanz; 
 \end_layout
 
-\begin_layout Standard
-2.
- Auflistung der Beteiligungen nach Absatz 7 Nr.
+\begin_layout Enumerate
+Auflistung der Beteiligungen nach Absatz 7 Nr.
  1 A II 1 sowie deren im Jahresabschluss aufgeführte unmittelbare und mittelbare
  Beteiligungen, jeweils mit Name und Sitz sowie Angabe des Anteils und der
  Höhe des Nominalkapitals; außerdem müssen die Höhe des Anteils am Kapital,
@@ -5767,17 +5750,15 @@ n angegeben werden, für das ein Jahresabschluss vorliegt.
  1 des Handelsgesetzbuchs (HGB); 
 \end_layout
 
-\begin_layout Standard
-3.
- Benennung der Hauptprodukte von Medienunternehmen, soweit Beteiligungen
+\begin_layout Enumerate
+Benennung der Hauptprodukte von Medienunternehmen, soweit Beteiligungen
  an diesen bestehen; 
 \end_layout
 
-\begin_layout Standard
-4.
- im Abstand von fünf Jahren eine Bewertung des Haus- und Grundvermögens
- und der Beteiligungen an Unternehmen nach dem Bewertungsgesetz (Haus- und
- Grundvermögen nach §§ 145 ff.
+\begin_layout Enumerate
+im Abstand von fünf Jahren eine Bewertung des Haus- und Grundvermögens und
+ der Beteiligungen an Unternehmen nach dem Bewertungsgesetz (Haus- und Grundverm
+ögen nach §§ 145 ff.
  des Bewertungsgesetzes).
  
 \end_layout
@@ -6204,42 +6185,35 @@ mitgliedern und deren Beauftragten an privaten Anschlüssen in Höhe von 20%
  folgende Höchstgrenzen: 
 \end_layout
 
-\begin_layout Standard
-1.
- Verteilen von Werbematerial an Haushalte: entsprechend dem Posttarif, zur
+\begin_layout Enumerate
+Verteilen von Werbematerial an Haushalte: entsprechend dem Posttarif, zur
  Zeit 9 Cent/Stück, 
 \end_layout
 
-\begin_layout Standard
-2.
- Verteilen von Werbematerial an Infoständen: 7 Cent/Stück,
+\begin_layout Enumerate
+Verteilen von Werbematerial an Infoständen: 7 Cent/Stück,
 \end_layout
 
-\begin_layout Standard
-3.
- Aufhängen bzw.
+\begin_layout Enumerate
+Aufhängen bzw.
  Ankleben von Plakaten an vorhandene Plakatwände oder Aushangtafeln sowie
  Bekleben, Auf- und Abhängen von Plakatträgern: 7 EUR/Stück,
 \end_layout
 
-\begin_layout Standard
-4.
- Bau und Reparatur von Plakatträgern: 5 EUR/Stück,
+\begin_layout Enumerate
+Bau und Reparatur von Plakatträgern: 5 EUR/Stück,
 \end_layout
 
-\begin_layout Standard
-5.
- Sammeln von Unterstützungsunterschriften: 3 EUR/Stück, 
+\begin_layout Enumerate
+Sammeln von Unterstützungsunterschriften: 3 EUR/Stück, 
 \end_layout
 
-\begin_layout Standard
-6.
- Pressearbeit: 2 EUR/Zeile (Nachweis), 
+\begin_layout Enumerate
+Pressearbeit: 2 EUR/Zeile (Nachweis), 
 \end_layout
 
-\begin_layout Standard
-7.
- Kuvertieren von Mitglieder- und Interessentenpost: 0,12 EUR/Brief 
+\begin_layout Enumerate
+Kuvertieren von Mitglieder- und Interessentenpost: 0,12 EUR/Brief 
 \end_layout
 
 \begin_layout Standard
@@ -6370,30 +6344,29 @@ Die Bundespartei regelt im Benehmen mit den Landesverbänden den parteiinternen
  die Bundespartei zu entrichten wie folgt:
 \end_layout
 
-\begin_layout Standard
-1.
- Die eingehenden Mitgliedsbeiträge stehen zu: 
+\begin_layout Enumerate
+Die eingehenden Mitgliedsbeiträge stehen zu: 
 \end_layout
 
-\begin_layout Standard
-a) 50 % dem Bundesverband, 
+\begin_deeper
+\begin_layout Enumerate
+50 % dem Bundesverband, 
 \end_layout
 
-\begin_layout Standard
-b) 50 % dem zuständigen Landesverband.
+\begin_layout Enumerate
+50 % dem zuständigen Landesverband.
 \end_layout
 
-\begin_layout Standard
-2.
- Die Hälfte der dem zuständigen Landesverband zufließenden Beitragsanteile
+\end_deeper
+\begin_layout Enumerate
+Die Hälfte der dem zuständigen Landesverband zufließenden Beitragsanteile
  ist an den zuständigen Kreisverband (ersatzweise Bezirksverband) als Zuschuss
  weiterzuleiten.
  
 \end_layout
 
-\begin_layout Standard
-3.
- Die Bundesgeschäftsstelle fertigt zu den Stichtagen 31.12., 28.02.
+\begin_layout Enumerate
+Die Bundesgeschäftsstelle fertigt zu den Stichtagen 31.12., 28.02.
  und 31.08.
  Aufstellungen über die Beitragseingänge unter Nennung der Mitgliedsnamen,
  geordnet nach den Landes- und Kreisverbänden, und leitet die jeweilige
@@ -6401,9 +6374,9 @@ b) 50 % dem zuständigen Landesverband.
  und 30.09.
  an die zuständigen Landesverbände weiter.
  
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
 Die Aufstellung vom 31.12.
  ist als Unterlage für die Landesrechenschaftsberichte vorgesehen.
  Aufgrund der Aufstellungen vom 28.02.
@@ -6415,9 +6388,8 @@ bände, die ihrerseits die Zuschüsse gemäß § 14, Abs.
  
 \end_layout
 
-\begin_layout Standard
-4.
- Mitgliedsbeiträge, die irrtümlich an Landes- oder Kreisverbände bezahlt
+\begin_layout Enumerate
+Mitgliedsbeiträge, die irrtümlich an Landes- oder Kreisverbände bezahlt
  wurden, sind unverzüglich unter Nennung des Mitglieds in voller Höhe an
  die Bundesgeschäftsstelle weiterzuleiten.
  Diese irrtümlichen Beitragseingänge dürfen bei den Landes- und Kreisverbänden
@@ -6426,9 +6398,8 @@ bände, die ihrerseits die Zuschüsse gemäß § 14, Abs.
  
 \end_layout
 
-\begin_layout Standard
-5.
- Bei der Mahnung beitragssäumiger Mitglieder wird die Bundesgeschäftsstelle
+\begin_layout Enumerate
+Bei der Mahnung beitragssäumiger Mitglieder wird die Bundesgeschäftsstelle
  durch die Kreis-, Bezirks- und Landesverbände unterstützt.
 \end_layout
 
@@ -6663,26 +6634,22 @@ führung geltenden Vorschriften gesetzlicher, vertraglicher und satzungsmäßige
  Art und entsprechender Grundsätze sowie insbesondere auch darauf, ob 
 \end_layout
 
-\begin_layout Standard
-1.
- alle Etats (einschließlich der Nachtrags-Etats) eingehalten worden sind,
+\begin_layout Enumerate
+alle Etats (einschließlich der Nachtrags-Etats) eingehalten worden sind,
 \end_layout
 
-\begin_layout Standard
-2.
- im Etat jeweils vollständig zu erfassende Einnahmen und Ausgaben begründet
+\begin_layout Enumerate
+im Etat jeweils vollständig zu erfassende Einnahmen und Ausgaben begründet
  und belegt sind und Jahresrechnung sowie Vermögensrechnung der Bundespartei
  ordnungsgemäß aufgestellt worden sind, 
 \end_layout
 
-\begin_layout Standard
-3.
- wirtschaftlich und sparsam verfahren wird, 
+\begin_layout Enumerate
+wirtschaftlich und sparsam verfahren wird, 
 \end_layout
 
-\begin_layout Standard
-4.
- die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere Weise
+\begin_layout Enumerate
+die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere Weise
  wirksamer erfüllt werden kann.
 \end_layout
 
@@ -6895,7 +6862,11 @@ n.
 
 \begin_layout Standard
 a) für Kreisverbände der 28.
- Februar, b) für Bezirksverbände der 31.
+ Februar, 
+\end_layout
+
+\begin_layout Standard
+b) für Bezirksverbände der 31.
  März, 
 \end_layout
 
@@ -6911,28 +6882,28 @@ c) für die Landesverbände der 31.
  als auch die staatlichen Zuschüsse an die Landesverbände wie folgt gekürzt:
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts bis zum 31.05.: ohne Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts bis zum 31.05.: ohne Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 31.05.: 20% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 31.05.: 20% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 07.06.: 40% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 07.06.: 40% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 15.06.: 60% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 15.06.: 60% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 22.06.: 80% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 22.06.: 80% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 31.06.: 100% Abschlag
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 31.06.: 100% Abschlag
 \end_layout
 
 \begin_layout Standard
@@ -6952,28 +6923,28 @@ zungen die Beitragsanteile eines Jahres der betreffenden Untergliederungen
  wie folgt einbehalten:
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts bis zum 31.03.: ohne Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts bis zum 31.03.: ohne Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 31.03.: 20% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 31.03.: 20% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 07.04.: 40% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 07.04.: 40% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 15.04.: 60% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 15.04.: 60% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 22.04.: 80% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 22.04.: 80% Abschlag 
 \end_layout
 
-\begin_layout Standard
-• Abgabe des Rechenschaftsberichts nach dem 30.04.: 100% Abschlag 
+\begin_layout Itemize
+Abgabe des Rechenschaftsberichts nach dem 30.04.: 100% Abschlag 
 \end_layout
 
 \begin_layout Standard
