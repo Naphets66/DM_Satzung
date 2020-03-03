@@ -4550,102 +4550,108 @@ Kreisschiedsgerichte können auch rechtliche Auseinandersetzungen zwischen
  Instanz zuständig: 
 \end_layout
 
-\begin_layout Standard
-1.
- Ausschluss aus der DM von: 
+\begin_layout Enumerate
+Ausschluss aus der DM von: 
 \end_layout
 
-\begin_layout Standard
-1.1 Mitgliedern des Bundes- oder Landesvorstandes 
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+1.1
 \end_layout
 
-\begin_layout Standard
-1.2 Abgeordneten des Deutschen Bundestages und der Landtage (Bürgerschaften),
+\end_inset
+
+ Mitgliedern des Bundes- oder Landesvorstandes 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+1.2
+\end_layout
+
+\end_inset
+
+ Abgeordneten des Deutschen Bundestages und der Landtage (Bürgerschaften),
  
 \end_layout
 
-\begin_layout Standard
-2.
- Widersprüche von Mitgliedern des Bundes- oder Landesvorstandes sowie von
+\end_deeper
+\begin_layout Enumerate
+Widersprüche von Mitgliedern des Bundes- oder Landesvorstandes sowie von
  Abgeordneten des Deutschen Bundestages und der Landtage (Bürgerschaften)
  gegen die vorläufige Untersagung der Ausübung ihrer Mitgliedschaftsrechte
  bis zur rechtskräftigen Entscheidung der zuständigen Schieds- gerichte
  in Ausschlussfällen, 
 \end_layout
 
-\begin_layout Standard
-3.
- Widersprüche von Mitgliedern des Landesvorstandes gegen Ordnungsmaßnahmen,
+\begin_layout Enumerate
+Widersprüche von Mitgliedern des Landesvorstandes gegen Ordnungsmaßnahmen,
  die vom Landes- oder Bundesvorstand gegen sie verhängt wurden, 
 \end_layout
 
-\begin_layout Standard
-4.
- Rehabilitationsverfahren auf Antrag eines Mitglieds des Landes- oder Bundesvors
-tandes gegen sich selbst, wenn andere Mitglieder ihm parteischädigendes
- oder ehrenrühriges Verhaltens vorwarfen, 
+\begin_layout Enumerate
+Rehabilitationsverfahren auf Antrag eines Mitglieds des Landes- oder Bundesvorst
+andes gegen sich selbst, wenn andere Mitglieder ihm parteischädigendes oder
+ ehrenrühriges Verhaltens vorwarfen, 
 \end_layout
 
-\begin_layout Standard
-5.
- Widersprüche gegen Ordnungsmaßnahmen eines Landes- oder des Bundesvorstandes
+\begin_layout Enumerate
+Widersprüche gegen Ordnungsmaßnahmen eines Landes- oder des Bundesvorstandes
  gegen Maß- nahmen nach § 6 PartG – gemäß § 11 Abs.
  6 Nr.
  4 Satz 1 DM-Statut,
 \end_layout
 
-\begin_layout Standard
-6.
- Rechtsstreitigkeiten über Auslegung und Anwendung der Satzung und des sonstigen
+\begin_layout Enumerate
+Rechtsstreitigkeiten über Auslegung und Anwendung der Satzung und des sonstigen
  Rechts des Lan- desverbandes,
 \end_layout
 
-\begin_layout Standard
-7.
- Rechtsstreitigkeiten zwischen einem oder mehreren Kreisverbänden und dem
+\begin_layout Enumerate
+Rechtsstreitigkeiten zwischen einem oder mehreren Kreisverbänden und dem
  Landesverband, 
 \end_layout
 
-\begin_layout Standard
-8.
- Rechtsstreitigkeiten zwischen Kreisverbänden, 
+\begin_layout Enumerate
+Rechtsstreitigkeiten zwischen Kreisverbänden, 
 \end_layout
 
-\begin_layout Standard
-9.
- Rechtsstreitigkeiten zwischen Landesvereinigungen untereinander oder zwischen
+\begin_layout Enumerate
+Rechtsstreitigkeiten zwischen Landesvereinigungen untereinander oder zwischen
  Landesvereinigun- gen und dem Landesverband, 
 \end_layout
 
-\begin_layout Standard
-10.
- Widersprüche von Kreisverbänden und Landesvereinigungen gegen Ordnungsmaßnahmen
+\begin_layout Enumerate
+Widersprüche von Kreisverbänden und Landesvereinigungen gegen Ordnungsmaßnahmen
  des Lan- desverbandes gegenüber Kreisverbänden oder Landesvereinigungen
  sowie Widersprüche gegen Amtsenthebung ihrer Organe, 
 \end_layout
 
-\begin_layout Standard
-11.
- Anfechtung von Wahlen im Zuständigkeitsbereich des Landesver- bandes, soweit
+\begin_layout Enumerate
+Anfechtung von Wahlen im Zuständigkeitsbereich des Landesver- bandes, soweit
  nicht ein Kreisschiedsgericht zuständig ist, 
 \end_layout
 
-\begin_layout Standard
-12.
- Anfechtung von Wahlen und Entscheidungen von Landespräsidium, Landesvorstand,
+\begin_layout Enumerate
+Anfechtung von Wahlen und Entscheidungen von Landespräsidium, Landesvorstand,
  Landesaus- schuss und Landesparteitag, 
 \end_layout
 
-\begin_layout Standard
-13.
- Zuständigkeitsstreit zwischen Kreisschiedsgerichten, 
+\begin_layout Enumerate
+Zuständigkeitsstreit zwischen Kreisschiedsgerichten, 
 \end_layout
 
-\begin_layout Standard
-14.
- Bestimmung eines Kreisschiedsgerichtes im Einzelfall, wenn das an sich
- zuständige Kreisschiedsge- richt nicht besteht oder nicht ordnungsgemäß
- besetzt werden kann.
+\begin_layout Enumerate
+Bestimmung eines Kreisschiedsgerichtes im Einzelfall, wenn das an sich zuständig
+e Kreisschiedsge- richt nicht besteht oder nicht ordnungsgemäß besetzt werden
+ kann.
  
 \end_layout
 
@@ -4673,59 +4679,81 @@ tandes gegen sich selbst, wenn andere Mitglieder ihm parteischädigendes
 (1) Das Bundesschiedsgericht entscheidet in folgenden Fällen: 
 \end_layout
 
-\begin_layout Standard
-1.
- rechtliche Auseinandersetzungen zwischen einem oder mehreren Landesverbänden
+\begin_layout Enumerate
+rechtliche Auseinandersetzungen zwischen einem oder mehreren Landesverbänden
  und der Bundes- partei, 
 \end_layout
 
-\begin_layout Standard
-2.
- rechtliche Auseinandersetzungen zwischen Landesverbänden, 
+\begin_layout Enumerate
+rechtliche Auseinandersetzungen zwischen Landesverbänden, 
 \end_layout
 
-\begin_layout Standard
-3.
- rechtliche Auseinandersetzungen zwischen Vereinigungen auf Bundesebene
- (Bundesvereinigungen) untereinander oder zwischen Bundesvereinigungen und
- der Bundespartei, 
+\begin_layout Enumerate
+rechtliche Auseinandersetzungen zwischen Vereinigungen auf Bundesebene (Bundesve
+reinigungen) untereinander oder zwischen Bundesvereinigungen und der Bundesparte
+i, 
 \end_layout
 
-\begin_layout Standard
-4.
- Widersprüche von Landesverbänden und Bundesvereinigungen gegen: 
+\begin_layout Enumerate
+Widersprüche von Landesverbänden und Bundesvereinigungen gegen: 
 \end_layout
 
-\begin_layout Standard
-4.1 Ordnungsmaßnahmen der Bundespartei gegenüber Landesverbänden oder Bundesverei
-nigungen 
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.1
 \end_layout
 
-\begin_layout Standard
-4.2 Widersprüche gegen die Amtsenthebung ihrer Organe, 
+\end_inset
+
+ Ordnungsmaßnahmen der Bundespartei gegenüber Landesverbänden oder Bundesvereini
+gungen 
 \end_layout
 
-\begin_layout Standard
-4.3 gegen Maßnahmen nach § 6 PartG – gemäß § 11 Abs.
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.2
+\end_layout
+
+\end_inset
+
+ Widersprüche gegen die Amtsenthebung ihrer Organe, 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+4.3
+\end_layout
+
+\end_inset
+
+ gegen Maßnahmen nach § 6 PartG – gemäß § 11 Abs.
  6 Nr.
  4 Satz 2 DM- Statut
 \end_layout
 
-\begin_layout Standard
-5.
- Anfechtung von Wahlen und Entscheidungen von Präsidium, Bundesvorstand,
+\end_deeper
+\begin_layout Enumerate
+Anfechtung von Wahlen und Entscheidungen von Präsidium, Bundesvorstand,
  Bundesausschuss und Bundesparteitag, 
 \end_layout
 
-\begin_layout Standard
-6.
- Zuständigkeitsstreit zwischen Landesschiedsgerichten oder Kreisschiedsgerichten
+\begin_layout Enumerate
+Zuständigkeitsstreit zwischen Landesschiedsgerichten oder Kreisschiedsgerichten
  verschiedener Lan- desverbände, 
 \end_layout
 
-\begin_layout Standard
-7.
- Bestimmung eines Landesschiedsgerichtes im Einzelfall, wenn das an sich
+\begin_layout Enumerate
+Bestimmung eines Landesschiedsgerichtes im Einzelfall, wenn das an sich
  zuständige Landes- schiedsgericht nicht besteht oder nicht ordnungsgemäß
  besetzt werden kann.
  
@@ -5591,129 +5619,210 @@ Gesamtausgaben nach den Nummern 1 bis 3.
 (7) Die Vermögensbilanz umfasst: 
 \end_layout
 
-\begin_layout Standard
-1.
- Besitzposten: 
+\begin_layout Enumerate
+Besitzposten: 
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 A.
+\end_layout
+
+\end_inset
+
  Anlagevermögen: 
 \end_layout
 
-\begin_layout Standard
-I.
- Sachanlagen: 
+\begin_deeper
+\begin_layout Enumerate
+Sachanlagen: 
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 1.
+\end_layout
+
+\end_inset
+
  Haus- und Grundvermögen, 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 2.
+\end_layout
+
+\end_inset
+
  Geschäftsstellenausstattung, 
 \end_layout
 
-\begin_layout Standard
-II.
- Finanzanlagen: 
+\end_deeper
+\begin_layout Enumerate
+Finanzanlagen: 
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 1.
+\end_layout
+
+\end_inset
+
  Beteiligungen an Unternehmen, 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 2.
+\end_layout
+
+\end_inset
+
  sonstige Finanzanlagen; 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 B.
+\end_layout
+
+\end_inset
+
  Umlaufvermögen: 
 \end_layout
 
-\begin_layout Standard
-I.
- Forderungen an Gliederungen, 
+\begin_deeper
+\begin_layout Enumerate
+Forderungen an Gliederungen, 
 \end_layout
 
-\begin_layout Standard
-II.
- Forderungen auf staatliche Mittel, 
+\begin_layout Enumerate
+Forderungen auf staatliche Mittel, 
 \end_layout
 
-\begin_layout Standard
-III.
- Geldbestände, 
+\begin_layout Enumerate
+Geldbestände, 
 \end_layout
 
-\begin_layout Standard
-IV.
- sonstige Vermögensgegenstände; 
+\begin_layout Enumerate
+sonstige Vermögensgegenstände; 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 C.
+\end_layout
+
+\end_inset
+
  Gesamtbesitzposten (Summe aus A und B); 
 \end_layout
 
-\begin_layout Standard
-2.
- Schuldposten: 
+\end_deeper
+\begin_layout Enumerate
+Schuldposten: 
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 A.
+\end_layout
+
+\end_inset
+
  Rückstellungen: 
 \end_layout
 
-\begin_layout Standard
-I.
- Pensionsverpflichtungen, 
+\begin_deeper
+\begin_layout Enumerate
+Pensionsverpflichtungen, 
 \end_layout
 
-\begin_layout Standard
-II.
- sonstige Rückstellungen; 
+\begin_layout Enumerate
+sonstige Rückstellungen; 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 B.
+\end_layout
+
+\end_inset
+
  Verbindlichkeiten: 
 \end_layout
 
-\begin_layout Standard
-I.
- Verbindlichkeiten gegenüber Gliederungen, 
+\begin_deeper
+\begin_layout Enumerate
+Verbindlichkeiten gegenüber Gliederungen, 
 \end_layout
 
-\begin_layout Standard
-II.
- Verbindlichkeiten gegenüber Kreditinstituten, 
+\begin_layout Enumerate
+Verbindlichkeiten gegenüber Kreditinstituten, 
 \end_layout
 
-\begin_layout Standard
-III.
- Verbindlichkeiten gegenüber natürlichen Personen, 
+\begin_layout Enumerate
+Verbindlichkeiten gegenüber natürlichen Personen, 
 \end_layout
 
-\begin_layout Standard
-IV.
- sonstige Verbindlichkeiten; 
+\begin_layout Enumerate
+sonstige Verbindlichkeiten; 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
 C.
+\end_layout
+
+\end_inset
+
  Gesamte Schuldposten (Summe von A und B); 
 \end_layout
 
-\begin_layout Standard
-3.
- Reinvermögen (positiv oder negativ).
+\end_deeper
+\begin_layout Enumerate
+Reinvermögen (positiv oder negativ).
  
 \end_layout
 
@@ -5847,30 +5956,28 @@ agten schriftlich mitteilen.
  
 \end_layout
 
-\begin_layout Standard
-1.
- Spenden von öffentlich-rechtlichen Körperschaften, Parlamentsfraktionen
+\begin_layout Enumerate
+Spenden von öffentlich-rechtlichen Körperschaften, Parlamentsfraktionen
  und –gruppen sowie von Fraktionen und Gruppen von kommunalen Vertretungen;
  
 \end_layout
 
-\begin_layout Standard
-2.
- Spenden von politischen Stiftungen, Körperschaften, Personenvereinigungen
+\begin_layout Enumerate
+Spenden von politischen Stiftungen, Körperschaften, Personenvereinigungen
  und Vermögensmassen, die nach der Satzung, dem Stiftungsgeschäft oder der
  sonstigen Verfassung und nach der tatsächlichen Geschäftsführung ausschließlich
  und unmittelbar gemeinnützigen, mildtätigen oder kirchlichen Zwecken dienen
  (§§ 51 bis 68 der Abgabenordnung); 
 \end_layout
 
-\begin_layout Standard
-3.
- Spenden von außerhalb des Geltungsbereiches des Parteiengesetzes, es sei
+\begin_layout Enumerate
+Spenden von außerhalb des Geltungsbereiches des Parteiengesetzes, es sei
  denn, dass 
 \end_layout
 
-\begin_layout Standard
-a) diese Spenden aus dem Vermögen eines Deutschen im Sinne des Grundgesetzes,
+\begin_deeper
+\begin_layout Enumerate
+diese Spenden aus dem Vermögen eines Deutschen im Sinne des Grundgesetzes,
  eines Bürgers der Europäischen Union oder eines Wirtschaftsunternehmens,
  dessen Anteile sich zu mehr als 50 vom Hundert im Eigentum von Deutschen
  im Sinne des Grundgesetzes oder eines Bürgers der Europäischen Union befinden
@@ -5878,61 +5985,84 @@ a) diese Spenden aus dem Vermögen eines Deutschen im Sinne des Grundgesetzes,
  unmittelbar der Partei zufließen, 
 \end_layout
 
-\begin_layout Standard
-b) es sich um eine Spende eines Ausländers von nicht mehr als 1.000 Euro
- handelt; 
+\begin_layout Enumerate
+es sich um eine Spende eines Ausländers von nicht mehr als 1.000 Euro handelt;
+ 
 \end_layout
 
-\begin_layout Standard
-4.
- Spenden von Berufsverbänden, die diesen mit der Maßgabe zugewandt wurden,
+\end_deeper
+\begin_layout Enumerate
+Spenden von Berufsverbänden, die diesen mit der Maßgabe zugewandt wurden,
  sie an eine politische Partei weiterzuleiten; 
 \end_layout
 
-\begin_layout Standard
-5.
- Spenden von Unternehmen, die ganz oder teilweise im Eigentum der öffentlichen
+\begin_layout Enumerate
+Spenden von Unternehmen, die ganz oder teilweise im Eigentum der öffentlichen
  Hand stehen oder die von ihr verwaltet oder betrieben werden, sofern die
  direkte Beteiligung der öffentlichen Hand 25 vom Hundert übersteigt; 
 \end_layout
 
-\begin_layout Standard
-6.
- Spenden, soweit sie im Einzelfall mehr als 500 Euro betragen und deren
- Spender nicht feststellbar sind, oder bei denen es sich erkennbar um die
- Weiterleitung einer Spende eines nicht genannten Dritten handelt; 
+\begin_layout Enumerate
+Spenden, soweit sie im Einzelfall mehr als 500 Euro betragen und deren Spender
+ nicht feststellbar sind, oder bei denen es sich erkennbar um die Weiterleitung
+ einer Spende eines nicht genannten Dritten handelt; 
 \end_layout
 
-\begin_layout Standard
-7.
- Spenden, die der Partei erkennbar in Erwartung oder als Gegenleistung eines
+\begin_layout Enumerate
+Spenden, die der Partei erkennbar in Erwartung oder als Gegenleistung eines
  bestimmten wirtschaftlichen oder politischen Vorteils gewährt werden; 
 \end_layout
 
-\begin_layout Standard
-8.
- Spenden, die von einem Dritten gegen ein von der Partei zu zahlendes Entgelt
+\begin_layout Enumerate
+Spenden, die von einem Dritten gegen ein von der Partei zu zahlendes Entgelt
  eingeworben werden, das 15 vom Hundert des Wertes der eingeworbenen Spende
  übersteigt; 
 \end_layout
 
-\begin_layout Standard
-9.1 Spenden, soweit sie im Einzelfall mehr als 500 Euro betragen, von Großunterne
-hmen mit einer Bilanzsumme, die im Jahr vor der Spende eine Milliarde Euro
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+9.1
+\end_layout
+
+\end_inset
+
+ Spenden, soweit sie im Einzelfall mehr als 500 Euro betragen, von Großunternehm
+en mit einer Bilanzsumme, die im Jahr vor der Spende eine Milliarde Euro
  überschritten hat, aus folgenden Geschäftsbereichen: Finanzen, Energie,
  Chemie, Pharmazeutik, Rüstung, Medien.
  
 \end_layout
 
-\begin_layout Standard
-9.2 Für jede juristische Person aus diesen Bereichen gilt jährlich eine Gesamtobe
-rgrenze für Spenden von 10.000 Euro.
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+9.2
+\end_layout
+
+\end_inset
+
+ Für jede juristische Person aus diesen Bereichen gilt jährlich eine Gesamtoberg
+renze für Spenden von 10.000 Euro.
  
 \end_layout
 
-\begin_layout Standard
-9.3 Sind juristische Personen durch Beteiligungen mit mehr als 25% Anteilseigentu
-m miteinander verbunden, gilt die Gesamtobergrenze für Spenden von 10.000
+\begin_layout Enumerate
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+9.3
+\end_layout
+
+\end_inset
+
+ Sind juristische Personen durch Beteiligungen mit mehr als 25% Anteilseigentum
+ miteinander verbunden, gilt die Gesamtobergrenze für Spenden von 10.000
  Euro für die ganze Gruppe der juristischen Personen.
  Diese Bestimmung dient dazu, Umgehungen des § 5, Absatz 3 Ziffer 9 dieser
  Finanzordnung zu verhindern.
@@ -6135,14 +6265,14 @@ iebes üblicherweise unentgeltlich zur Verfügung stellen, bleiben als Einnahmen
  Personen auf Antrag Kosten erstattet, die entstanden sind infolge: 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 a) Ausübung eines Amtes, in das sie von einem satzungsgemäßen Parteiorgan
  gewählt wurden (z.B.
  Mitglieder von Parteiorganen wie Vorstände oder Schiedsgerichten), oder
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 b) Wahrnehmung eines Mandates, das ihnen von einem satzungsgemäßen Parteiorgan
  erteilt wurde bzw.
  das sie von Amts wegen wahrnehmen (z.B.
@@ -6150,13 +6280,13 @@ b) Wahrnehmung eines Mandates, das ihnen von einem satzungsgemäßen Parteiorgan
  oder Beratungsgremien), oder
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 c) Erfüllung einer Aufgabe, mit der sie von einem satzungsgemäßen Parteiorgan
  beauftragt wurden (z.B.
  Kandidatur für ein politisches Mandat), oder
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 d) Teilnahme an einer Sitzung eines anerkannten Arbeitskreises.
 \end_layout
 
@@ -6860,17 +6990,17 @@ n.
 (2.1) Der jährliche Termin zur Abgabe der Rechenschaftsberichte ist 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 a) für Kreisverbände der 28.
  Februar, 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 b) für Bezirksverbände der 31.
  März, 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 c) für die Landesverbände der 31.
  Mai.
 \end_layout
