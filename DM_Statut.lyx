@@ -1,4 +1,4 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
+﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -10,9 +10,10 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{Politisches Programm der Deutschen Mitte}
+\lhead{Satzung der Deutschen Mitte}
+\rhead{}
 \rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
-\lfoot{Autor: Norman Golisz\newline
+\lfoot{Autor: AG-Satzung\newline
 Version: 1.0}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
@@ -158,22 +159,6 @@ thispagestyle{empty}
 
 \begin_layout Standard
 \begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Titlehead
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-pagenumbering{arabic}
-\end_layout
-
 \end_inset
 
 
